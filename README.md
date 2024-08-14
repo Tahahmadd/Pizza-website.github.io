@@ -78,14 +78,16 @@ Provides a collection of icons for use in the UI.
 Clone the project
 
 ```bash
-  git clone https://github.com/tahahmadd/Hotel-website.github.io.git
+  git clone https://github.com/tahahmadd/Pizza-website.github.io.git
+
 
 ```
 
 Go to the project directory 
 
 ```bash
-  cd Hotel-website.github.io
+  cd Pizza-website.github.io
+
 
 ```
 
@@ -93,6 +95,7 @@ Open the index.html file in your web browser:
 
 ```bash
   open index.html
+
 
 ```
 
