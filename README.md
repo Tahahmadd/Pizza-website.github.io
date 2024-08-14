@@ -106,7 +106,7 @@ If you'd like to contribute to this project, feel free to fork the repository an
 # Contact
 For any inquiries or feedback, please contact:
 
-*Taha Ahmad: tahahmad@gmail.com
+*Taha Ahmad: tahahmad01@gmail.com
 
 
  
